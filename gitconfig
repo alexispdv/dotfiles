@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexis.sengsay.lab@gmail.com
+	name = alexis sengsay
